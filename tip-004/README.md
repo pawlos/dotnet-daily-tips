@@ -24,5 +24,5 @@ Host.CreateDefaultBuilder()
 // MISS -- Name ends with 'Consumer'
 // MISS -- Inherits from Wolverine.Saga
 // MISS -- Implements Wolverine.IWolverineHandler
-/// MISS -- Has attribute Wolverine.Attributes.WolverineHandlerAttribute
+// MISS -- Has attribute Wolverine.Attributes.WolverineHandlerAttribute
 ```
