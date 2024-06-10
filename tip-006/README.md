@@ -21,7 +21,7 @@ or with just a simple Func<>?
 ```csharp
 public class NewParcelHanler(
     IParcelsStore parcelsStore,
-    Funct<TrackingId> trackingNumberGenerator
+    Func<TrackingId> trackingNumberGenerator
 )
 {
     // omitted
