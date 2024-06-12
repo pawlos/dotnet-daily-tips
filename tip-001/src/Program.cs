@@ -16,9 +16,9 @@ static Result<FileInfo> ResolvePathExplicit(string path)
 }
 
 static Result<FileInfo> ResolvePathImplicit(string path)
-    {
-        return !File.Exists(path) ? $"File '{path}' does not exists." : new FileInfo(path);
-    }
+{
+    return !File.Exists(path) ? $"File '{path}' does not exists." : new FileInfo(path);
+}
 
 
 
