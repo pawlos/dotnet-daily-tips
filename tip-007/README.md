@@ -5,7 +5,3 @@ Using our Result<T> class (see [Tip-001](../tip-001/README.md)) poses one proble
 Using MemberNotNullWhen attribute to indicate when Value is not null and when Error is not based on the IsSuccessful attribute. With that additional help - no red squiggly.
 
 Documentation about the attribute: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/nullable-analysis
-
-```csharp
-
-```
