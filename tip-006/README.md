@@ -1,4 +1,4 @@
-# 006 - Are we interface obsessed #
+# 006 - Are we interface obsessed? #
 
 During one of the live sessions, while writing some tests, we stumble upon the decision to extract generation of tracking numbers. We would inject our dependency into the .ctor, but into what it should be extracted?
 We would like to allow testing so interface sounds like a natural decision to do that but, that's not the only way to go, right?
