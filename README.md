@@ -12,3 +12,4 @@ List of the daily tips
 - [Day-007](./tip-007/README.md) - MemberNotNullWhen
 - [Day-008](./tip-008/README.md) - Log injection
 - [Day-009](./tip-009/README.md) - Wolverine source generation
+- [Day-010](./tip-010/README.md) - Primery constructors
