@@ -19,3 +19,4 @@ List of the daily tips
 - [Day-014](./tip-014/README.md) - Validation in Wolverine
 - [Day-015](./tip-015/README.md) - OrderBy mistake
 - [Day-016](./tip-016/README.md) - Breaking changes in .NET 8
+- [Day-017](./tip-017/README.md) - static lambda
