@@ -17,3 +17,4 @@ List of the daily tips
 - [Day-012](./tip-012/README.md) - Problem details
 - [Day-013](./tip-013/README.md) - Wolverine functional style
 - [Day-014](./tip-014/README.md) - Validation in Wolverine
+- [Day-015](./tip-015/README.md) - OrderBy mistake
