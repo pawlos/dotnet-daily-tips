@@ -1,4 +1,4 @@
-# 011 - switch expressions #
+# 011 - Switch expressions #
 
 Have you switched (😉) to switch-expression from the old style if statements?
 

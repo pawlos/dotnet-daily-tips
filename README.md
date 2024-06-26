@@ -13,3 +13,4 @@ List of the daily tips
 - [Day-008](./tip-008/README.md) - Log injection
 - [Day-009](./tip-009/README.md) - Wolverine source generation
 - [Day-010](./tip-010/README.md) - Primery constructors
+- [Day-011](./tip-011/README.md) - Switch expressions
