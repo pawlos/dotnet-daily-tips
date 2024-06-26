@@ -14,3 +14,4 @@ List of the daily tips
 - [Day-009](./tip-009/README.md) - Wolverine source generation
 - [Day-010](./tip-010/README.md) - Primery constructors
 - [Day-011](./tip-011/README.md) - Switch expressions
+- [Day-012](./tip-012/README.md) - Problem details
