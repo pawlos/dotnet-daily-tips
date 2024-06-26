@@ -18,3 +18,4 @@ List of the daily tips
 - [Day-013](./tip-013/README.md) - Wolverine functional style
 - [Day-014](./tip-014/README.md) - Validation in Wolverine
 - [Day-015](./tip-015/README.md) - OrderBy mistake
+- [Day-016](./tip-016/README.md) - Breaking changes in .NET 8
