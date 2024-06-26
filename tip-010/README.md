@@ -1,4 +1,4 @@
-# 010 - Primery constructors#
+# 010 - Primery constructors #
 
 What's your take on C# 12 Primary constructor feature? Love them? Hate them? Just use them? I've just discovered that one must be really careful not to mistype as there's a small fine difference between the two following entries:
 
