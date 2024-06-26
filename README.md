@@ -15,3 +15,4 @@ List of the daily tips
 - [Day-010](./tip-010/README.md) - Primery constructors
 - [Day-011](./tip-011/README.md) - Switch expressions
 - [Day-012](./tip-012/README.md) - Problem details
+- [Day-013](./tip-013/README.md) - Wolverine functional style
