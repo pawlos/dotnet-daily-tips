@@ -26,3 +26,4 @@ List of the daily tips
 - [Day-021](./tip-021/README.md) - Watch window formatters
 - [Day-022](./tip-022/README.md) - Debugging abilities
 - [Day-023](./tip-023/README.md) - Pseudovariables in Watch window
+- [Day-024](./tip-024/README.md) - Memory window
