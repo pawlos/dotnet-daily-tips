@@ -28,3 +28,4 @@ List of the daily tips
 - [Day-023](./tip-023/README.md) - Pseudovariables in Watch window
 - [Day-024](./tip-024/README.md) - Memory window
 - [Day-025](./tip-025/README.md) - Source generators
+- [Day-026](./tip-026/README.md) - Make Object ID
