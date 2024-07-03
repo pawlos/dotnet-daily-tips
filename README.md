@@ -30,3 +30,4 @@ List of the daily tips
 - [Day-025](./tip-025/README.md) - Source generators
 - [Day-026](./tip-026/README.md) - Make Object ID
 - [Day-027](./tip-027/README.md) - Crash dump
+- [Day-028](./tip-028/README.md) - Local function placement
