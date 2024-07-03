@@ -29,3 +29,4 @@ List of the daily tips
 - [Day-024](./tip-024/README.md) - Memory window
 - [Day-025](./tip-025/README.md) - Source generators
 - [Day-026](./tip-026/README.md) - Make Object ID
+- [Day-027](./tip-027/README.md) - Crash dump
