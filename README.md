@@ -31,3 +31,4 @@ List of the daily tips
 - [Day-026](./tip-026/README.md) - Make Object ID
 - [Day-027](./tip-027/README.md) - Crash dump
 - [Day-028](./tip-028/README.md) - Local function placement
+- [Day-029](./tip-029/README.md) - Indexing from the end
