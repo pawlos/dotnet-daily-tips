@@ -34,3 +34,4 @@ List of the daily tips
 - [Tip-029](./tip-029/README.md) - Indexing from the end
 - [Tip-030](./tip-030/README.md) - Debugger.Break
 - [Tip-031](./tip-031/README.md) - Conditional attribute
+- [Tip-032](./tip-032/README.md) - appsettings.json
