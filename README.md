@@ -33,3 +33,4 @@ List of the daily tips
 - [Day-028](./tip-028/README.md) - Local function placement
 - [Day-029](./tip-029/README.md) - Indexing from the end
 - [Day-030](./tip-030/README.md) - Debugger.Break
+- [Day-031](./tip-031/README.md) - Conditional attribute
