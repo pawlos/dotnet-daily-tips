@@ -1,4 +1,4 @@
-# 032 - appsettings.json  #
+# 032 - appsettings - Setting per file  #
 
 appsettings.json is a standard file that holds application configuration but it's not the only one. There are multiple providers and one of them allows to have configuration per file?
 
