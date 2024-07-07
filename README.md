@@ -35,3 +35,4 @@ List of the daily tips
 - [Tip-030](./tip-030/README.md) - Debugger.Break
 - [Tip-031](./tip-031/README.md) - Conditional attribute
 - [Tip-032](./tip-032/README.md) - appsettings - Setting per file
+- [Tip-033](./tip-033/README.md) - appsettings - In memory provider
