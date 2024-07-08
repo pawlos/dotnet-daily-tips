@@ -37,3 +37,4 @@ List of the daily tips
 - [Tip-032](./tip-032/README.md) - appsettings - Setting per file
 - [Tip-033](./tip-033/README.md) - appsettings - In memory provider
 - [Tip-034](./tip-034/README.md) - appsettings - Multiple providers
+- [Tip-035](./tip-035/README.md) - DOTNET_JitDisasm
