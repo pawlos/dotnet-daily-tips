@@ -8,4 +8,4 @@ We can set it to point to a method name (in Powershell $env:DOTNET_JitDisasm="Ma
 
 If you are dealing with low level performance issues, you can use this to see what assembly is generated and if that could be, for some reason, the culprit for the problem.
 
-Try running the attached program with and without setting the environment varianble.
+Try running the attached program with and without setting the environment variable.
