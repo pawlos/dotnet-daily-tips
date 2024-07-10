@@ -39,3 +39,4 @@ List of the daily tips
 - [Tip-034](./tip-034/README.md) - appsettings - Multiple providers
 - [Tip-035](./tip-035/README.md) - DOTNET_JitDisasm
 - [Tip-036](./tip-036/README.md) - GC Limits
+- [Tip-037](./tip-037/README.md) - GC Limits again
