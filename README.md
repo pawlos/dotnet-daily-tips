@@ -40,3 +40,4 @@ List of the daily tips
 - [Tip-035](./tip-035/README.md) - DOTNET_JitDisasm
 - [Tip-036](./tip-036/README.md) - GC Limits
 - [Tip-037](./tip-037/README.md) - GC Limits again
+- [Tip-038](./tip-038/README.md) - Random.Shared
