@@ -1,8 +1,8 @@
 # 005 - Wolverine registration rules #
 
-Method Handle and the Handler suffix is probably the most common naming conventions. But Wolverine supports other conventions. For the class we can use Handler or Consumer. It also works if we inherit from Wolverine.Saga or implement IWolverineHandler interface. If none of those works for us we can use WolverineHandlerAttribute and mark our class.
+Method Handle and the Handler suffix is probably the most common naming conventions. But Wolverine supports other conventions. For the class we can use Handler or Consumer. It also works if we inherit from Wolverine.Saga or implement `IWolverineHandler` interface. If none of those works for us we can use WolverineHandlerAttribute and mark our class.
 
-For the method name there's even more choices. We can name our method using on the the following names (+ Async suffix): Handle, Handles, Consume, Consumes, Orchestrate, Orchestrates, Start, Starts, StartOrHandles, NotFound. Again if none of those works for us we can use WolverineHandler attribute.
+For the method name there's even more choices. We can name our method using on the the following names (+ Async suffix): Handle, Handles, Consume, Consumes, Orchestrate, Orchestrates, Start, Starts, StartOrHandles, NotFound. Again if none of those works for us we can use `[WolverineHandler]` attribute.
 
 ```csharp
 
