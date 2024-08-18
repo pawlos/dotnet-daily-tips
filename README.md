@@ -47,3 +47,4 @@ List of the daily tips
 - [Tip-042](./tip-042/README.md) - Publish trimmed
 - [Tip-043](./tip-043/README.md) - Trimming options
 - [Tip-044](./tip-044/README.md) - UnsafeAccesssorAttribute
+- [Tip-045](./tip-045/README.md) - ReadyToRun
