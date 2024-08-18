@@ -45,3 +45,4 @@ List of the daily tips
 - [Tip-040](./tip-040/README.md) - Dark launching
 - [Tip-041](./tip-041/README.md) - Publishing
 - [Tip-042](./tip-042/README.md) - Publish trimmed
+- [Tip-043](./tip-043/README.md) - Trimming options
