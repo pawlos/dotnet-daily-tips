@@ -51,3 +51,4 @@ List of the daily tips
 - [Tip-046](./tip-046/README.md) - Minimal class/interface/record/struct
 - [Tip-047](./tip-047/README.md) - SIMD
 - [Tip-048](./tip-048/README.md) - System.Numerics
+- [Tip-049](./tip-049/README.md) - Intrinsics
