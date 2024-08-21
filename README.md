@@ -52,3 +52,4 @@ List of the daily tips
 - [Tip-047](./tip-047/README.md) - SIMD
 - [Tip-048](./tip-048/README.md) - System.Numerics
 - [Tip-049](./tip-049/README.md) - Intrinsics
+- [Tip-050](./tip-050/README.md) - Json serialization
