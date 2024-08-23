@@ -54,3 +54,4 @@ List of the daily tips
 - [Tip-049](./tip-049/README.md) - Intrinsics
 - [Tip-050](./tip-050/README.md) - Json serialization
 - [Tip-051](./tip-051/README.md) - Fixed-time equals
+- [Tip-052](./tip-052/README.md) - Capacity vs Count
