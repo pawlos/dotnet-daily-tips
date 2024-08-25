@@ -56,3 +56,4 @@ List of the daily tips
 - [Tip-051](./tip-051/README.md) - Fixed-time equals
 - [Tip-052](./tip-052/README.md) - Capacity vs Count
 - [Tip-053](./tip-053/README.md) - CountBy, AggregateBy
+- [Tip-054](./tip-054/README.md) - `with` expression
