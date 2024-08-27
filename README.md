@@ -57,3 +57,4 @@ List of the daily tips
 - [Tip-052](./tip-052/README.md) - Capacity vs Count
 - [Tip-053](./tip-053/README.md) - CountBy, AggregateBy
 - [Tip-054](./tip-054/README.md) - `with` expression
+- [Tip-055](./tip-055/README.md) - `::` operator
