@@ -58,3 +58,4 @@ List of the daily tips
 - [Tip-053](./tip-053/README.md) - CountBy, AggregateBy
 - [Tip-054](./tip-054/README.md) - `with` expression
 - [Tip-055](./tip-055/README.md) - `::` operator
+- [Tip-056](./tip-056/README.md) - `await` vs `Task.WhenAll`
