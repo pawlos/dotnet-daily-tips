@@ -61,3 +61,4 @@ List of the daily tips
 - [Tip-056](./tip-056/README.md) - `await` vs `Task.WhenAll`
 - [Tip-057](./tip-057/README.md) - Task methods
 - [Tip-058](./tip-058/README.md) - IO vs CPU-bound
+- [Tip-059](./tip-059/README.md) - await anything
