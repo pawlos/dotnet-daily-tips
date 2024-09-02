@@ -63,3 +63,4 @@ List of the daily tips
 - [Tip-058](./tip-058/README.md) - IO vs CPU-bound
 - [Tip-059](./tip-059/README.md) - await anything
 - [Tip-060](./tip-060/README.md) - async enumerable
+- [Tip-061](./tip-061/README.md) - EF.Functions
