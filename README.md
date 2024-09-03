@@ -64,3 +64,4 @@ List of the daily tips
 - [Tip-059](./tip-059/README.md) - await anything
 - [Tip-060](./tip-060/README.md) - async enumerable
 - [Tip-061](./tip-061/README.md) - EF.Functions
+- [Tip-062](./tip-062/README.md) - EF.Functions.Collate
