@@ -65,3 +65,4 @@ List of the daily tips
 - [Tip-060](./tip-060/README.md) - async enumerable
 - [Tip-061](./tip-061/README.md) - EF.Functions
 - [Tip-062](./tip-062/README.md) - EF.Functions.Collate
+- [Tip-063](./tip-063/README.md) - EF logging & TagWith()
