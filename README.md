@@ -67,3 +67,4 @@ List of the daily tips
 - [Tip-062](./tip-062/README.md) - EF.Functions.Collate
 - [Tip-063](./tip-063/README.md) - EF logging & TagWith()
 - [Tip-064](./tip-064/README.md) - `.AsSplitQuery()`/`.AsSingleQuery()`
+- [Tip-065](./tip-065/README.md) - Interceptors
