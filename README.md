@@ -69,3 +69,4 @@ List of the daily tips
 - [Tip-064](./tip-064/README.md) - `.AsSplitQuery()`/`.AsSingleQuery()`
 - [Tip-065](./tip-065/README.md) - Interceptors
 - [Tip-066](./tip-066/README.md) - Deconstruct
+- [Tip-067](./tip-067/README.md) - Discards
