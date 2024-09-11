@@ -72,3 +72,4 @@ List of the daily tips
 - [Tip-067](./tip-067/README.md) - Discards
 - [Tip-068](./tip-068/README.md) - A standalone discard
 - [Tip-069](./tip-069/README.md) - C# langauage specification
+- [Tip-070](./tip-070/README.md) - Regular expressions
