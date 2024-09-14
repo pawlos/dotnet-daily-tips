@@ -76,3 +76,4 @@ List of the daily tips
 - [Tip-071](./tip-071/README.md) - `stackalloc`
 - [Tip-072](./tip-072/README.md) - TimeProvider
 - [Tip-073](./tip-073/README.md) - `System.Half`
+- [Tip-074](./tip-074/README.md) - `StackTraceHidden`
