@@ -6,3 +6,9 @@ While not necessarily useful in day-to-day coding, it might be useful to know ab
 
 
 Docs 📑: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/utf8-string-literals
+
+```csharp
+string helloWorld = "Hello, World!";
+
+ReadOnlySpan<byte> helloWorldUtf8 = "Hello, World!"u8;
+```
