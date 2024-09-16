@@ -78,3 +78,4 @@ List of the daily tips
 - [Tip-073](./tip-073/README.md) - `System.Half`
 - [Tip-074](./tip-074/README.md) - `StackTraceHidden`
 - [Tip-075](./tip-075/README.md) - `TryGetNonEnumeratedCount`
+- [Tip-076](./tip-076/README.md) - utf-8 Strings Literals
