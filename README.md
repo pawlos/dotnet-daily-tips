@@ -82,3 +82,4 @@ List of the daily tips
 - [Tip-077](./tip-077/README.md) - Link to source
 - [Tip-078](./tip-078/README.md) - Verify
 - [Tip-079](./tip-079/README.md) - Verify - Dont Scrub*
+- [Tip-080](./tip-080/README.md) - `ModuleInitializer`
