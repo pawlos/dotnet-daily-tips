@@ -83,3 +83,4 @@ List of the daily tips
 - [Tip-078](./tip-078/README.md) - Verify
 - [Tip-079](./tip-079/README.md) - Verify - Dont Scrub*
 - [Tip-080](./tip-080/README.md) - `ModuleInitializer`
+- [Tip-081](./tip-081/README.md) - ArchUnitNet
