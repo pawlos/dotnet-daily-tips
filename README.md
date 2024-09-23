@@ -84,3 +84,4 @@ List of the daily tips
 - [Tip-079](./tip-079/README.md) - Verify - Dont Scrub*
 - [Tip-080](./tip-080/README.md) - `ModuleInitializer`
 - [Tip-081](./tip-081/README.md) - ArchUnitNet
+- [Tip-082](./tip-082/README.md) - Out Of Memory exception
