@@ -86,3 +86,4 @@ List of the daily tips
 - [Tip-081](./tip-081/README.md) - ArchUnitNet
 - [Tip-082](./tip-082/README.md) - Out Of Memory exception
 - [Tip-083](./tip-083/README.md) - P/Invoke
+- [Tip-084](./tip-084/README.md) - `LibraryImport`
