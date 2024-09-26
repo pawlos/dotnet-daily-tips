@@ -87,3 +87,4 @@ List of the daily tips
 - [Tip-082](./tip-082/README.md) - Out Of Memory exception
 - [Tip-083](./tip-083/README.md) - P/Invoke
 - [Tip-084](./tip-084/README.md) - `LibraryImport`
+- [Tip-085](./tip-085/README.md) - Native library loading
