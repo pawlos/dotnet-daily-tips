@@ -88,3 +88,4 @@ List of the daily tips
 - [Tip-083](./tip-083/README.md) - P/Invoke
 - [Tip-084](./tip-084/README.md) - `LibraryImport`
 - [Tip-085](./tip-085/README.md) - Native library loading
+- [Tip-086](./tip-086/README.md) - System.Text.Rune
