@@ -90,3 +90,4 @@ List of the daily tips
 - [Tip-085](./tip-085/README.md) - Native library loading
 - [Tip-086](./tip-086/README.md) - System.Text.Rune
 - [Tip-087](./tip-087/README.md) - System.Console.OutputEncoding
+- [Tip-088](./tip-088/README.md) - System.Console.Title
