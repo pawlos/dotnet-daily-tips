@@ -92,3 +92,4 @@ List of the daily tips
 - [Tip-087](./tip-087/README.md) - System.Console.OutputEncoding
 - [Tip-088](./tip-088/README.md) - System.Console.Title
 - [Tip-089](./tip-089/README.md) - IdnMapping
+- [Tip-090](./tip-090/README.md) - Character categories
