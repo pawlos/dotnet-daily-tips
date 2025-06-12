@@ -7,7 +7,7 @@ If an async method continues on a different thread, `ThreadLocal<T>` would not w
 
 Check out the example to see how it works!
 
-Docs 📑: https://learn.microsoft.com/en-us/dotnet/api/system.threading.asynclocal-1?view=net-8.0
+Docs 📑: [System.Threading.AsyncLocal](https://learn.microsoft.com/en-us/dotnet/api/system.threading.asynclocal-1?view=net-8.0)
 
 ```csharp
 AsyncLocal<string> asyncLocalContext = new();
