@@ -12,7 +12,7 @@ List of the daily tips
 - [Tip-007](./tip-007/README.md) - MemberNotNullWhen
 - [Tip-008](./tip-008/README.md) - Log injection
 - [Tip-009](./tip-009/README.md) - Wolverine source generation
-- [Tip-010](./tip-010/README.md) - Primery constructors
+- [Tip-010](./tip-010/README.md) - Primary constructors
 - [Tip-011](./tip-011/README.md) - Switch expressions
 - [Tip-012](./tip-012/README.md) - Problem details
 - [Tip-013](./tip-013/README.md) - Wolverine functional style
