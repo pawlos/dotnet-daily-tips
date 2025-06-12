@@ -1,11 +1,11 @@
 # 093 - AsyncLocal<T> #
 
-Do you know about the `ThreadLocal<T>` type that allows you to declare data storage that's associated with a specific thread?
+Do you know about the `ThreadLocal<T>` type that allows you to declare data storage associated with a specific thread?
 
-If you know that, do you know about a similar concept but for async methods? `AsyncLocal<T>` is the type that allows you to bind a value to a specific asynchronous method call.
+If you know that, do you know about a similar concept but for async methods? `AsyncLocal<T>` lets you bind a value to a specific asynchronous flow.
 If an async method continues on a different thread, `ThreadLocal<T>` would not work in such a scenario. That's why `AsyncLocal<T>` is used.
 
-See the example to get more familiar with how it works!
+Check out the example to see how it works!
 
 Docs 📑: https://learn.microsoft.com/en-us/dotnet/api/system.threading.asynclocal-1?view=net-8.0
 
@@ -27,7 +27,7 @@ async Task Method1(string val)
     Console.WriteLine($"Value after: {val}, {asyncLocalContext.Value}");
 }
 
-// Will produce the following output:
+// This will produce the following output:
 //
 // Value before: First call, Value1
 // Value before: Second call, Value2
