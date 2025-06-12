@@ -97,3 +97,4 @@ List of the daily tips
 - [Tip-092](./tip-092/README.md) - InternalsVisibleTo
 - [Tip-093](./tip-093/README.md) - `AsyncLocal<T>`
 - [Tip-094](./tip-094/README.md) - Week numbers
+- [Tip-095](./tip-095/README.md) - Stopwatch without allocations
