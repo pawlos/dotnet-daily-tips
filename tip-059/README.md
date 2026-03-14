@@ -4,7 +4,7 @@ async/await programming simplifies program structure. It seems linear and can be
 
 All we need to do is to make sure our type supports GetAwaiter method that returns `TaskAwaiter` or `TaskAwaiter<T>`.
 
-With such loos requirements we can await ints, DateTimes and even Processes. Did you use this technique? What weird or interesting constructs did you create?
+With such loose requirements we can await ints, DateTimes and even Processes. Did you use this technique? What weird or interesting constructs did you create?
 
 
 ```csharp
