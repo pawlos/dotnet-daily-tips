@@ -1,6 +1,6 @@
 # 083 - P/Invoke #
 
-P/Invoke is a way to allow unmanaged libraries from managed code. In the old days, it was a way to access Windows API that was not yet available in the .NET framework.
+P/Invoke is a way to call unmanaged libraries from managed code. In the old days, it was a way to access Windows API that was not yet available in the .NET framework.
 
 Since .NET became multi-platform, being present on Mac and Linux, P/Invoke has also been available on those platforms.
 
@@ -22,7 +22,7 @@ public static class Program
 
     public static void Main(string[] args)
     {
-        // Invoke the function and het the process ID
+        // Invoke the function and get the process ID
         int pid = getpid();
         Console.WriteLine(pid);
     }
