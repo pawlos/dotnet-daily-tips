@@ -14,7 +14,7 @@ Docs 📑: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/op
 
 ```csharp
 var aNewHopeMovie = new Movie("A New Hope", 1977);
-var fullMovieTitle = aNewHopeMovie with { Title = "SAtar Wars: A New Hope"};
+var fullMovieTitle = aNewHopeMovie with { Title = "Star Wars: A New Hope"};
 
 // Will print: Movie { Title = Star Wars: A New Hope, ReleaseYear = 1977 }
 Console.WriteLine(fullMovieTitle);
