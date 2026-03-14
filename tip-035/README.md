@@ -1,4 +1,4 @@
-# 035 - DOTNET_JitDisams #
+# 035 - DOTNET_JitDisasm #
 
 ❓ Do you know that you can see the assembly that JIT generates for your methods?
 
