@@ -20,7 +20,7 @@ protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     base.OnConfiguring(optionsBuilder);
 }
 
-// 1️⃣ without any extra info query will be generated but might get los (an log of info severity is generated)
+// 1️⃣ without any extra info query will be generated but might get lost (a log of info severity is generated)
 dbContext.Lessons.FirstOrDefault(x => x.Title != ".NET Lessons");
 
 /*
