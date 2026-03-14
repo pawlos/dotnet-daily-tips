@@ -13,7 +13,7 @@ Framework dependent:
 - ➕ cross-platform
 - ➕uses latest runtime
 - ➖requires preinstalled runtime
-- ➖might fail if the runtime changes behavior (it might happen, see post from [Day-16](../tip-001/README.md))
+- ➖might fail if the runtime changes behavior (it might happen, see post from [Day-16](../tip-016/README.md))
 
 Self-contained:
 - ➕ deployed with specific version of .NET, you are sure if the app worked it will work
