@@ -4,7 +4,7 @@ Another debugging topic today. And another look at Watch window 🔍 in Visual S
 
 The documentation 📑 is attached as link below 👇 but it doesn't contain the full list.
 
-- 📌 $exception is probably the most know one; it holds the last thrown exception
+- 📌 $exception is probably the most known one; it holds the last thrown exception
 - 📌 $returnvalue holds the result of the function right after we exit
 - 📌 $asyncStateMachine - the state machine object, available inside async method
 - 📌 $threadSmallObjectHeapBytes, $threadUserOldHeapBytes - give an info about how much bytes were allocated by the current thread
