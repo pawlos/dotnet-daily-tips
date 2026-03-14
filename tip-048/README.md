@@ -10,7 +10,7 @@ Funny stuff aside, if you are doing any more serious calculation you should chec
 
 Docs: 📑 https://learn.microsoft.com/en-us/dotnet/api/system.numerics.totalorderieee754comparer-1?view=net-8.0
 
-Did you had a chance to use this IEEE754 comparer in your project?
+Did you have a chance to use this IEEE754 comparer in your project?
 
 
 ```csharp
