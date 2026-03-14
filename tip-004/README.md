@@ -1,7 +1,7 @@
 # 004 - Wolverine registration rules #
 
-Auto-registering things might cause some undesidered effects when we don't see things happening the way we expect them to do. It might be that our handler is not triggered even though we think we've registered it correctly.
-Using Wolverine handlers we can see why the registration did not work and what is being check in order to satisfy the matching logic.
+Auto-registering things might cause some undesired effects when we don't see things happening the way we expect them to do. It might be that our handler is not triggered even though we think we've registered it correctly.
+Using Wolverine handlers we can see why the registration did not work and what is being checked in order to satisfy the matching logic.
 
 ```csharp
 public class ParcelByIdHendler(ParcelStore parcelsStore) // typo in Handler
