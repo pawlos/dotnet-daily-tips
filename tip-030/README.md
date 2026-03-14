@@ -9,4 +9,4 @@ that can be used to trigger a debugger. Probably it's worth to check if the debu
 
 Read the docs 📑: https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debugger?view=net-8.0
 
-Did you had a chance to try it out?
+Did you have a chance to try it out?
