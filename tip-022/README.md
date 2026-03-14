@@ -1,4 +1,4 @@
-# 022 - Debugging abbilities #
+# 022 - Debugging abilities #
 
 Today an observation 🤨.
 
@@ -8,7 +8,7 @@ Some of the Link's abilities are:
 
 
 - 📌Ultrahand - ability to manipulate objects,
-- 📌Recall - allows you reverse the flow of time,
+- 📌Recall - allows you to reverse the flow of time,
 - 📌Ascend - dive upwards and pass through solid objects to appear at the top.
 
 Ultrahand in the debugging world is an obvious analogy to ability to manipulate objects properties that are being used in the program.
