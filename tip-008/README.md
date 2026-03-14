@@ -6,7 +6,7 @@ One of those is [cs/log-forging](https://codeql.github.com/codeql-query-help/csh
 
 We can fix this issue by replacing new lines in our input parameter by either using `string.Replace` method, or with `string.ReplaceLineEnding(string.Empty)` for example.
 
-The vulnerable method could like like this:
+The vulnerable method could look like this:
 ```csharp
 app.MapGet("/vulnerable-endpoint", (string[] items, ILoggerFactory loggerFactory) =>
 {
