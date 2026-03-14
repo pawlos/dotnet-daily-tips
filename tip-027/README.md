@@ -6,7 +6,7 @@ Visual Studio is able to open not only projects with source code, but also a dum
 
 Loading such file will provide you with a summary information about the binary as well as modules that were loaded.
 
-From this screen we can also start deeper analysis of the issue by running the `"Diagnostic Analysis"` or starting `"Debug with manged Only/Mixed/Native only"`. That last option depends on the amount of info we do have in our dump file.
+From this screen we can also start deeper analysis of the issue by running the `"Diagnostic Analysis"` or starting `"Debug with managed Only/Mixed/Native only"`. That last option depends on the amount of info we do have in our dump file.
 
 With full dump we can start debugging with Managed code which is probably what we want.
 
@@ -22,4 +22,4 @@ Diagnostic panel:
 
 ![](./diagnosic_analysis.jpg)
 
-Did you had a chance to use crash dump analysis in Visual Studio and did it help you finding the root cause? Please share your stories.
+Did you have a chance to use crash dump analysis in Visual Studio and did it help you finding the root cause? Please share your stories.
