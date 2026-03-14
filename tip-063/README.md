@@ -6,8 +6,6 @@ With Entity Framework, we do not need to worry about the QUERY that is generated
 optionsBuilder.LogTo(Console.WriteLine);
 ```
 
-But in a big application that might result in a lot of queries generated so how to match query written in code with the one generated?
-
 However, in a large application, this might result in a lot of queries being generated. So how do we match the query written in code with the one generated?
 
 The `TagWith()` method allows us to add this extra bit of information that will help us link the code with the generated query. See the example below: 👇
