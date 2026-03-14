@@ -10,6 +10,6 @@ public record SenderEntity(int? Id, string Name, string Address);
 public class SenderEntity(int? Id, string Name, string Address);
 ```
 
-In the first example we declare a record and `Id`, `Name` and `Address` will be exposed as public properties. In the second one, we delcare a class with a primary constructor taking such arguments, but nothing is exposed outside the class.
+In the first example we declare a record and `Id`, `Name` and `Address` will be exposed as public properties. In the second one, we declare a class with a primary constructor taking such arguments, but nothing is exposed outside the class.
 
 Link to the docs: https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12#primary-constructors
