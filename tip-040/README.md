@@ -25,7 +25,7 @@ return Scientist.Science<WeatherForecast[]>("weather-forecast", experiment =>
     * Add extra context
     * experiment.AddContext("username", userName);
     *
-    * Prepare date before running normal run/experiment
+    * Prepare data before running normal run/experiment
     * experiment.BeforeRun(() => ExpensiveSetup());
     *
     * Decide what to store
