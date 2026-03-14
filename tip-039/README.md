@@ -17,6 +17,6 @@ Documentation (2) states that the algorithm used for generating numbers is based
 Checking the code (see: https://github.com/dotnet/runtime/blob/main/src/libraries/System.Private.CoreLib/src/System/Random.cs#L33) it looks like for seedless direct usage of Random the algorithm is Xoshiro (see: https://en.wikipedia.org/wiki/Xorshift#xoshiro) in other cases the Net5CompatDerivedImpl is used. That one is based on Knuth's algorithm.
 
 ```csharp
-// ✅ For security releated needs use RnadomNumberGenerator class
+// ✅ For security related needs use RandomNumberGenerator class
 byte[] randomBytes = RandomNumberGenerator.GetBytes(16);
 ```
