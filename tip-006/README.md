@@ -19,7 +19,7 @@ public class NewParcelHandler(
 ```
 or with just a simple Func<>?
 ```csharp
-public class NewParcelHanler(
+public class NewParcelHandler(
     IParcelsStore parcelsStore,
     Func<TrackingId> trackingNumberGenerator
 )
