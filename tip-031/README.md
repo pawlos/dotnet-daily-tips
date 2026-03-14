@@ -12,4 +12,4 @@ Conditional attribute can fix those problems. We only need to mark the method th
 
 - 🚩Docs for Conditional attribute 📑 https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.conditionalattribute?view=net-8.0
 
-Did you had to use those in your projects? If so please share ♻.
+Did you have to use those in your projects? If so please share ♻.
