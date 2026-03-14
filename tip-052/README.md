@@ -17,21 +17,21 @@ Docs 📑: https://learn.microsoft.com/en-us/dotnet/standard/collections/
 var list = new List<int>(512);
 
 // List count 0, capacity 512 - Capacity as expected
-Console.WriteLine($"List count {list.Count}, capcity {list.Capacity}");
+Console.WriteLine($"List count {list.Count}, capacity {list.Capacity}");
 
 list.AddRange(Enumerable.Range(1, 513));
 
 // List count 513, capacity 1024 - capacity grew as we exceeded the original capacity
-Console.WriteLine($"List count {list.Count}, capcity {list.Capacity}");
+Console.WriteLine($"List count {list.Count}, capacity {list.Capacity}");
 
 list.RemoveAll(x => x > 230);
 
-// List count 230, capcity 1024
-Console.WriteLine($"List count {list.Count}, capcity {list.Capacity}");
+// List count 230, capacity 1024
+Console.WriteLine($"List count {list.Count}, capacity {list.Capacity}");
 
 // Reclaim not-needed space
-list.TrimEscess();
+list.TrimExcess();
 
-// List count 230, capcity 230
-Console.WriteLine($"List count {list.Count}, capcity {list.Capacity}");
+// List count 230, capacity 230
+Console.WriteLine($"List count {list.Count}, capacity {list.Capacity}");
 ```
