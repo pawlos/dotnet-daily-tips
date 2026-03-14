@@ -21,7 +21,7 @@ void PrintFramesCount(IEnumerable<StackFrame> frames)
 {
     Console.WriteLine(frames.TryGetNonEnumeratedCount(out int count)
     ? $"Number of frames: {count}"
-    : "Coult not get frame count w/o enumerating");
+    : "Could not get frame count w/o enumerating");
 }
 
 IEnumerable<StackFrame> GetStackTrace1()
@@ -36,6 +36,6 @@ IEnumerable<StackFrame> GetStackTrace2()
     return st.GetFrames().Where(x => x.HasILOffset()).ToList();
 }
 
-// 1️⃣ Coult not get frame count w/o enumerating
+// 1️⃣ Could not get frame count w/o enumerating
 // 2️⃣ Number of frames: 2
 ```
