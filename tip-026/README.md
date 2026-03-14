@@ -8,7 +8,7 @@ Visual Studio's debugger provides another one. If we right click on a variable t
 
 See the docs 🔗: https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-tips-and-tricks?view=vs-2022#to-create-an-object-id
 
-This is how it looks in when setting up:
+This is how it looks when setting up:
 
 ![](./make_object_id.jpg)
 
