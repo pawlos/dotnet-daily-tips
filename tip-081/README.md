@@ -10,7 +10,7 @@ Docs 📑: https://github.com/TNG/ArchUnitNET
 
 ```csharp
 [Fact]
-public void DomainLayerShouldNotHaveAnyDependecies()
+public void DomainLayerShouldNotHaveAnyDependencies()
 {
     // 1️⃣ build the rule using fluent syntax
     IArchRule rule = Type()
