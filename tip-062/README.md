@@ -16,12 +16,12 @@ Docs 📑: https://learn.microsoft.com/en-us/ef/core/miscellaneous/collations-an
 // ✅ we already do have an entry in our DB called .net lesson
 var lessons = dbContext.Lessons.ToArray();
 
-// we want to check before we add - this will not yield results aas in C# ".net lesson" is not equal to ".NET Lesson"
+// we want to check before we add - this will not yield results as in C# ".net lesson" is not equal to ".NET Lesson"
 if (lesson.sAll(x => x.Title != ".NET Lesson"))
 {
     dbContext.Lessons.Add(new Lesson { Title = ".NET Lesson"});
 
-    // DB will thrown an exception from unique constraint violation
+    // DB will throw an exception from unique constraint violation
     await dbContext.SaveChangesAsync();
 }
 ```
