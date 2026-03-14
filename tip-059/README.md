@@ -17,10 +17,10 @@ public static class Awaiter
 
     public static TaskAwaiter<int> GetAwaiter(this Process process)
     {
-        var taskCompletionSource = new taskCompletionSource<int>();
+        var taskCompletionSource = new TaskCompletionSource<int>();
         process.EnableRaisingEvents = true;
         process.Exited += (_, _) => taskCompletionSource.SetResult(process.ExitCode);
-        if (process.HasExited) taskCompletedSource.SetResult(process.ExitCode);
+        if (process.HasExited) taskCompletionSource.SetResult(process.ExitCode);
         return taskCompletionSource.Task.GetAwaiter();
     }
 }
