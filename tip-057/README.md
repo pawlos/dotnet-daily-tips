@@ -30,5 +30,5 @@ Task.FromResult<T>();
 
 Task.FromException<T>();
 
-Task.FromCancelled<T>();
+Task.FromCanceled<T>();
 ```
