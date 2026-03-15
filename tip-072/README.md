@@ -19,7 +19,7 @@ BasedOnTime(fakeTimeProvider);
 
 void BasedOnTime(TimeProvider timerProvider)
 {
-    var utcNow = timeProvider.GetUtcNow();
-    Console.WriteLine($"Utc Now: {utcNow});
+    var utcNow = timerProvider.GetUtcNow();
+    Console.WriteLine($"Utc Now: {utcNow}");
 }
 ```
