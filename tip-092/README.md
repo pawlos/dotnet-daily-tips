@@ -23,5 +23,5 @@ internal class ImportantLogic
 
 // Project A will see the internal class
 var logic = new ImportantLogic();
-ic.DoStuff();
+logic.DoStuff();
 ```
