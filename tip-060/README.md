@@ -24,7 +24,7 @@ public class ProfilesCollection(HttpClient httpClient)
 
 var httpClient = new HttpClient();
 var profileCollection = new ProfilesCollection(httpClient);
-await foreach(var item in profilesCollection.GetValuesAsync())
+await foreach(var item in profileCollection.GetValuesAsync())
 {
     Console.WriteLine(item);
 }
