@@ -10,8 +10,8 @@ Docs 📑: https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.t
 
 
 ```csharp
-var enumeratedFrames = GetStackTrace1();
-var nonEnumeratedFrames = GetStackTrace2();
+var nonEnumeratedFrames = GetStackTrace1();
+var enumeratedFrames = GetStackTrace2();
 
 PrintFramesCount(enumeratedFrames); // 1️⃣
 PrintFramesCount(nonEnumeratedFrames); // 2️⃣
