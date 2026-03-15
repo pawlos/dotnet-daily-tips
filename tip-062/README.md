@@ -17,7 +17,7 @@ Docs 📑: https://learn.microsoft.com/en-us/ef/core/miscellaneous/collations-an
 var lessons = dbContext.Lessons.ToArray();
 
 // we want to check before we add - this will not yield results as in C# ".net lesson" is not equal to ".NET Lesson"
-if (lesson.sAll(x => x.Title != ".NET Lesson"))
+if (lessons.All(x => x.Title != ".NET Lesson"))
 {
     dbContext.Lessons.Add(new Lesson { Title = ".NET Lesson"});
 
