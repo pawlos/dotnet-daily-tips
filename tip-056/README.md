@@ -19,5 +19,5 @@ var menu = await api.LoadMenu();
 var ingredientsTask = api.LoadIngredients();
 var recipesTask = api.LoadRecipes();
 var menuTask = api.LoadMenu();
-Task.WhenAll([ingredientsTask, recipesTask, menuTask]);
+await Task.WhenAll([ingredientsTask, recipesTask, menuTask]);
 ```
