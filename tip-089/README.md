@@ -19,5 +19,5 @@ string[] urls = ["localhost","locạlhost"];
 IdnMappingmapping = new();
 
 // localhost, xn--loclhost-px0d
-Array.ForEach(urls, url => Console.WriteLine(mapping.GerAscii(url)));
+Array.ForEach(urls, url => Console.WriteLine(mapping.GetAscii(url)));
 ```
