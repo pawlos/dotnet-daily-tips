@@ -22,7 +22,7 @@ Docs📑: https://learn.microsoft.com/en-us/dotnet/core/deploying/trimming/trimm
 
     <!-- add this 👇 -->
     <PublishTrimmed>true</PublishTrimmed>
-    <!-- and those as needed 👇>
+    <!-- and those as needed 👇 -->
     <TrimMode>partial</TrimMode>
     <TrimmerRemoveSymbols>true</TrimmerRemoveSymbols>
 </PropertyGroup>
