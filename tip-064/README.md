@@ -14,7 +14,7 @@ Docs 📑: https://learn.microsoft.com/en-us/ef/core/querying/single-split-queri
 protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 {
     // ℹ use the split query for all queries
-    optionsBuilder.UseSQlServer(o =>
+    optionsBuilder.UseSqlServer(o =>
         o.UseQuerySplittingBehavior(QuerySplitBehavior.SplitQuery));
     base.OnConfiguring(optionsBuilder);
 }
