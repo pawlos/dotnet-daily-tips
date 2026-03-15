@@ -20,6 +20,6 @@ And the same method with a fix:
 app.MapGet("/vulnerable-endpoint", (string[] items, ILoggerFactory loggerFactory) =>
 {
     var logger = loggerFactory.CreateLogger("endpoint");
-    logger.Log(LogLevel.Information, "Calling with items: {}", items.Select(x => x.ReplaceLineEndings(string.Empty));
+    logger.Log(LogLevel.Information, "Calling with items: {}", items.Select(x => x.ReplaceLineEndings(string.Empty)));
 });
 ```
