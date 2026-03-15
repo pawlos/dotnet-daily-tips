@@ -15,6 +15,7 @@ Did you use such technique in your projects? Would you?
 
 ```csharp
 return Scientist.Science<WeatherForecast[]>("weather-forecast", experiment =>
+{
     experiment.Use(WeatherForecastsOld);
     experiment.Try("RandomNumberGenerator", WeatherForecastsNew); // experiment 1
     experiment.Try("Static", WeatherForecastsStatic); // experiment 2
@@ -37,5 +38,6 @@ return Scientist.Science<WeatherForecast[]>("weather-forecast", experiment =>
     * Decide when to run an experiment
     * experiment.RunIf(() => user.IsTestSubject);
     */
+}
 );
 ```
