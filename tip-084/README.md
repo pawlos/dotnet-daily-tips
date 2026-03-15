@@ -12,7 +12,7 @@ Docs 📑: https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinv
 ```csharp
 namespace LibraryImportSamples;
 
-public class NativeLibs
+public partial class NativeLibs
 {
     [LibraryImport("libc.so.6")]
     internal static partial int getpid();
