@@ -12,5 +12,5 @@ Docs 📑: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/op
 
 ```csharp
 var list = new System.Collections.Generic.List<int>();
-var global_list = global::System.Collections.Generic.List<int>();
+var global_list = new global::System.Collections.Generic.List<int>();
 ```
