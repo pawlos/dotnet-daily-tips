@@ -15,9 +15,9 @@ public class NewParcelHandler(ParcelStore parcelsStore)
 
 or via method
 ```csharp
-public static class NewParcelhandler
+public static class NewParcelHandler
 {
-    public Result<NewShipmentResult> Handle(NewShipmentCommand newShipmentCommand)
+    public static Result<NewShipmentResult> Handle(ParcelStore parcelsStore, NewShipmentCommand newShipmentCommand)
     {
         // handle the command
     }
